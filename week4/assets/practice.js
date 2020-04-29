@@ -1,3 +1,4 @@
+console.log("Hello");
 _BOARD.methods.ui.init();
 
 var _BOARD = _BOARD || {
